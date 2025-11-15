@@ -1,6 +1,3 @@
-
-🛒 WALMART SALES ANALYSIS USING SQL
-
 ## 🧵 Project Story: Why This Analysis Matters
 
 Walmart operates hundreds of stores across the U.S., and each location faces unique challenges — 
