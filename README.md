@@ -11,6 +11,11 @@ This project began with one question:
 Using SQL, I explored how holidays, economic factors, and time-based patterns influence sales 
 across different regions.
 
+🧠 Hypothesis  
+I hypothesize that:
+- Holiday weeks have significantly higher sales than non-holiday weeks.
+- External factors such as fuel price, CPI, and unemployment influence weekly sales patterns.
+- Certain stores remain top performers regardless of economic conditions.
 
 🎯 OBJECTIVES
 
@@ -34,7 +39,27 @@ across different regions.
 - **Date:** Weekly sales date  
 - **Weekly_Sales:** Total sales per store per week  
 - **Holiday_Flag:** 1 = Holiday week, 0 = Regular week  
-- **Temperature, Fuel_Price, CPI, Unemployment:** External variables  
+- **Temperature, Fuel_Price, CPI, Unemployment:** External variables
+
+## 📊 How I Tested My Hypothesis  
+To validate the hypothesis, I performed the following:
+
+- 🧹 Cleaned inconsistent date formats  
+- 🎯 Compared holiday vs non-holiday weekly sales  
+- 📅 Analyzed monthly and yearly sales patterns  
+- 🏆 Used SQL window functions (`RANK() OVER`) to identify top-performing stores  
+- 📉 Examined how CPI, fuel price, and unemployment correlate with weekly sales  
+- 📊 Wrote multiple SQL queries to test each part of the hypothesis  
+
+## 📈 Key Findings (Resolution)
+
+- 🎉 Holiday weeks had significantly higher weekly sales  
+- 🏪 Store 20 and Store 4 were consistent top performers  
+- ⛽ Fuel price had minimal impact on sales  
+- 📉 CPI & unemployment showed moderate correlation with performance  
+- ☀️ Summer months had more stable sales than winter months  
+
+These results confirm or reject parts of the hypothesis and complete the “story arc” of the project.
 
 🔍 ANALYSIS HIGHLIGHTS
 
