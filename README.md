@@ -1,10 +1,19 @@
 
 🛒 WALMART SALES ANALYSIS USING SQL
 
-📖 **Project Summary**
-A data-driven analysis of Walmart’s retail sales using MySQL. 
-The goal is to uncover insights on store performance, seasonality, and 
-how external factors like fuel price, temperature, and CPI impact sales.
+## 🧵 Project Story: Why This Analysis Matters
+
+Walmart operates hundreds of stores across the U.S., and each location faces unique challenges — 
+holiday rushes, seasonal trends, economic changes, and unpredictable customer behavior. 
+Understanding *why* some stores outperform others is critical for planning inventory, staffing, 
+and promotions.
+
+This project began with one question:
+**“What truly drives sales performance at Walmart stores?”**
+
+Using SQL, I explored how holidays, economic factors, and time-based patterns influence sales 
+across different regions.
+
 
 🎯 OBJECTIVES
 
