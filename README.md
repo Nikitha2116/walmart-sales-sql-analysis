@@ -110,5 +110,5 @@ on weekly sales performance.
 
 
 💬 QUOTE
-> *“Data isn’t just numbers — it’s the story of business decisions waiting to be discovered.”*
+> *“Data isn’t just numbers - it’s the story of business decisions waiting to be discovered.”*
 
