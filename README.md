@@ -1,6 +1,6 @@
 ## 🧵 Project Story: Why This Analysis Matters
 
-Walmart operates hundreds of stores across the U.S., and each location faces unique challenges — 
+Walmart operates hundreds of stores across the U.S., and each location faces unique challenges -
 holiday rushes, seasonal trends, economic changes, and unpredictable customer behavior. 
 Understanding *why* some stores outperform others is critical for planning inventory, staffing, 
 and promotions.
